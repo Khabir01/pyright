@@ -953,7 +953,7 @@
         "vscode-jsonrpc": "8.1.0",
         "vscode-languageclient": "8.1.0",
         "vscode-languageserver": "8.1.0",
-        "vscode-languageserver-protocol": "3.17.3"
+        "vscode-languageserver-protocol": "3.17.5"
     },
     "devDependencies": {
         "@types/copy-webpack-plugin": "^10.1.0",
